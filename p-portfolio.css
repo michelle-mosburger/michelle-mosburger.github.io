@@ -277,7 +277,7 @@ video{
     flex-direction: row;
 }
 
-@media(min-device-width : 768px) and (max-device-width : 1024px) {
+@media(min-device-width : 768px) and (max-device-width : 1022px) {
 
 
 
@@ -371,7 +371,7 @@ video{
    
 }
 
-@media(min-device-width : 867px) and (max-device-width : 1029px){
+@media(min-device-width : 867px) and (max-device-width : 1023px){
    
 
     .lebenslauf-link{
