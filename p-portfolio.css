@@ -812,6 +812,291 @@ video{
 
 
 }
+
+@media (min-width: 320px) and (max-width: 359px){
+
+    body{
+
+        margin-bottom: 25px;
+    }
+
+    .header-container{
+
+        width: 113%;
+        margin-left: -3px;
+      
+    
+    }
+    .lebenslauf-link a{
+
+        margin-right: -23px;
+        font-size: 88%;
+        margin-top: 7px;
+       }
+
+
+       .title-container{
+        margin-left: 20px;
+        width: 100%;
+        margin-top:  35px;
+
+    }
+
+    .image-container-1, .image-container-2, .image-container-3{
+
+        width: 110%;
+        margin-left: 8px;
+        margin-top: 10px;
+    }
+
+    .img-1, .img-2, .img-3, .img-4, .img-5, .img-6, .img-7, .img-8, .img-9{
+
+        margin-right: 10px;
+    }
+
+    .title-container-2{
+
+        margin-left: 72px;
+        width: 65%;
+        margin-top: 70px;
+    }
+    video{
+    
+        width: 100%;
+        margin-top: 75px;
+        margin-left: 15px;
+    
+    }
+
+    .title-container-3{
+
+        margin-left: 40px;
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .zeichnungen-container{
+        width: 115%;
+        margin-top: 5px;
+    }
+
+    .title-container-4{
+
+        margin-left: 3px;
+        width: 110%;
+        margin-top: 65px;
+    }
+
+    
+    .faces-container{
+        width: 110%;
+        margin-top: 30px;
+        margin-left: 2px;
+       
+    }
+
+    .grid-bg-container{
+
+        width: 90%;
+        margin-top: -28px;
+        margin-left: 25px;
+        
+    }
+    .animation-container{
+
+
+        width: 105%;
+        margin-left: 4px;
+        margin-top: 5px;
+    
+     }  
+     .stars-container{
+
+        z-index: -1;
+        position: absolute;
+        object-fit: cover;
+        margin-top: -135px;
+    } 
+
+    .stars-container-2{
+
+        z-index: -1;
+        position: absolute;
+        object-fit: cover;
+        margin-top: -105px;
+    } 
+
+    .stars-container-3{
+
+        z-index: -1;
+        position: absolute;
+        object-fit: cover;
+        margin-top: -105px;
+    } 
+
+    .stars-container-4{
+
+        z-index: -1;
+        position: absolute;
+        object-fit: cover;
+        margin-top: -105px;
+    } 
+    
+    
+    
+
+
+
+
+}
+
+@media (min-width: 425px) and (max-width: 470px){
+   
+    body{
+
+        margin-bottom: 20px;
+    }
+
+    .header-container{
+
+        width: 139%;
+      
+    
+    }
+    
+
+    .lebenslauf-link a{
+
+        margin-right: -120px;
+        font-size: 120%;
+        margin-top: 7px;
+        
+    }
+    .title-container{
+        margin-left: 75px;
+        width: 100%;
+        margin-top:  35px;
+
+       
+    
+    }
+
+    .img-1, .img-2, .img-3, .img-4, .img-5, .img-6, .img-7, .img-8, .img-9{
+
+        margin-right: 10px;
+    }
+
+    
+    .image-container-1, .image-container-2, .image-container-3{
+
+        width: 130%;
+        margin-left: 25px;
+        margin-top: 10px;
+    
+        
+    
+    }
+
+    .title-container-2{
+
+        margin-left: 150px;
+        width: 65%;
+        margin-top: 50px;
+    }
+
+    video{
+    
+        width: 120%;
+        margin-top: 75px;
+        margin-left: 35px;
+    
+    }
+
+
+    .title-container-3{
+
+        margin-left: 85px;
+        width: 103%;
+    }
+
+    .zeichnungen-container{
+        width: 140%;
+        margin-top: 20px;
+    }
+
+    
+    .title-container-4{
+
+        margin-left: 23px;
+        width: 125%;
+        margin-top: 65px;
+    }
+
+    .faces-container{
+        width: 130%;
+        margin-top: 30px;
+        margin-left: 15px;
+       
+    }
+
+    .grid-bg-container{
+
+        width: 110%;
+        margin-top: -45px;
+        margin-left: 47px;
+        
+    }
+
+    .animation-container{
+
+
+        width: 140%;
+        margin-top: 10px;
+        margin-left: -25px;
+        margin-top: 3px;
+    
+     }  
+
+     .stars-container{
+
+    z-index: -1;
+    position: absolute;
+    object-fit: cover;
+    margin-top: -135px;
+} 
+
+
+.stars-container-2{
+
+    z-index: -1;
+    position: absolute;
+    object-fit: cover;
+    margin-top: -135px;
+} 
+
+
+.stars-container-3{
+
+    z-index: -1;
+    position: absolute;
+    object-fit: cover;
+    margin-top: 50px;
+} 
+
+.stars-container-4{
+
+    z-index: -1;
+    position: absolute;
+    object-fit: cover;
+    margin-top: -110px;
+} 
+
+
+}
+ 
+
+
+
  
  
 
